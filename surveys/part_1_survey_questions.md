@@ -96,6 +96,9 @@ You may format your responses like so:
 
 etc.
 
+<br/><br/>
+<br/><br/>
+
 #### LIST 2 ####
 
 **Please list up to 5 songs that have a personal meaning to you and/or that you feel you can use to express yourself.**
@@ -107,6 +110,9 @@ You may format your responses like so:
 2. "Song B" by "Artist B"
 
 etc.
+
+<br/><br/>
+<br/><br/>
 
 ---
 
